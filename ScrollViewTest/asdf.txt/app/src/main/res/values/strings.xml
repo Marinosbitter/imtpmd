@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ScrollViewTest</string>
+
+    <string name="really_long_string">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas aliquam felis ut ante tincidunt, non posuere turpis finibus. Mauris ac venenatis mi. In ornare neque vel lorem porttitor malesuada. Ut dapibus, neque eget iaculis pulvinar, leo arcu luctus nisl, eu venenatis purus augue eu ipsum. Sed auctor eros leo, quis consectetur justo viverra non. Morbi rutrum neque et nulla dignissim, eget bibendum velit molestie. Cras ac ornare purus, non cursus dui. Ut quis justo nec metus scelerisque mattis eget et velit. Vestibulum id dignissim urna. Donec ornare lacus commodo quam consectetur malesuada. Phasellus euismod enim et eleifend porta. Morbi posuere volutpat consectetur. Vivamus congue velit quis mi auctor, sit amet finibus quam facilisis. Integer posuere lorem a aliquet mattis. Sed ac ante rutrum, venenatis magna vel, vulputate tortor. Praesent molestie metus ac aliquet mattis.
+
+    Mauris in lorem in mi porttitor venenatis. Vestibulum dictum aliquam elit, vitae tincidunt felis lobortis eget. Donec hendrerit velit sit amet justo auctor, in pellentesque diam efficitur. Suspendisse nec purus non lectus semper pulvinar. Pellentesque consequat magna arcu, sed feugiat ante malesuada id. Sed mi quam, commodo eget turpis in, pulvinar malesuada mauris. Donec non dolor quis mauris efficitur ullamcorper non id nulla. Suspendisse lacinia lacus quis ex semper, vitae elementum urna suscipit. Praesent placerat felis vitae sodales condimentum. Integer in odio ut massa maximus blandit eu ac velit.
+
+    Nulla pulvinar nibh sit amet orci cursus blandit eget ac elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla sed leo sed purus tempus pretium eu non turpis. Curabitur eget arcu sit amet quam aliquet ultricies. Cras at turpis et leo euismod lobortis. Sed bibendum eleifend blandit. Donec ornare eros eu justo ultrices, vel mattis dolor condimentum. Praesent elementum sem id fermentum semper. In sed enim imperdiet justo condimentum ullamcorper. Donec mi dui, vulputate facilisis ultricies in, viverra a sapien. Proin eget sollicitudin arcu, sit amet ultrices mauris. In sed scelerisque leo. In hac habitasse platea dictumst. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+
+    Cras vitae ante vitae dui efficitur fermentum. Nulla fermentum augue ut odio interdum iaculis. Aliquam erat volutpat. Fusce mi tellus, tristique convallis varius nec, rutrum a nisl. Aliquam volutpat, nisi ac elementum ornare, lectus metus aliquet massa, vitae tempus augue massa ac purus. In auctor, orci in malesuada semper, ipsum turpis varius eros, nec luctus diam orci pretium lectus. Fusce nec libero nunc. Etiam risus nulla, mattis sit amet ultrices ac, dapibus cursus odio. Aenean imperdiet erat nec ullamcorper feugiat. Nullam bibendum tincidunt augue quis viverra. Maecenas fringilla nulla vel enim lacinia porta at sed erat. Duis molestie magna id dolor scelerisque viverra.
+
+    Ut a convallis eros. Vestibulum risus justo, faucibus sit amet lacus sed, tincidunt luctus velit. Proin luctus ex nibh, non consectetur augue iaculis sed. Maecenas tempus sem enim, dictum eleifend libero tempus non. Fusce accumsan felis neque, varius mattis libero ullamcorper eget. Quisque tellus purus, maximus id accumsan quis, tempus eget est. Aenean justo elit, facilisis quis porttitor sit amet, ornare a risus. Aenean in tincidunt erat. Vivamus molestie sollicitudin neque, eget varius dolor accumsan et. Fusce eget posuere nunc, vel consectetur ex. Ut sed ultricies est. Aliquam justo ante, suscipit eu rutrum a, lacinia in nisl. In gravida metus purus, a consectetur dolor bibendum at. Nullam in suscipit enim. Suspendisse consectetur tellus a rutrum vestibulum. Quisque eu pulvinar urna.
+    </string>
+
+    <string name="welkomtext"> Welkom in onze app. De Sleutelaar is een slotenbedrijf dat sloten maakt voor de particuliere en commerciële sector.
+
+    Selecteer hieronder een slot om verder te gaan:
+    </string>
+
+</resources>
