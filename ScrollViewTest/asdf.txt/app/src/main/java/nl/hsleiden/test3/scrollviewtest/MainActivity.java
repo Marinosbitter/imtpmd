@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -62,6 +63,9 @@ ListView listView;
 
                 TextView newtext = (TextView) findViewById(R.id.lockInfoField);
                 newtext.setText("Dit is een "+itemValue+". Dit slot staat op de "+itemPosition+"e plaats in de lijst. Met dit slot kan je deuren op slot doen.");
+
+                Button btn = (Button) findViewById(R.id.moreInfoButton);
+                btn.setEnabled(true);
             }
 
         });
